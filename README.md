@@ -1,8 +1,6 @@
-# AN YOO JIN
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hokong2010)](https://solved.ac/hokong2010/)
 
-# 💪Skills
+#Skills
 ### Platforms & Languages
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=Python&logoColor=white)
@@ -11,7 +9,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
-### Tools
+#Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio%20-9933CC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
