@@ -17,6 +17,6 @@
 ![R Studio](https://img.shields.io/badge/R%20Studio-75AADB.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
  
-# :mailbox_with_mail: Contact Details
+# Contact Details
 [![GitHub Badge](http://img.shields.io/badge/-Git%20Hub-black?style=flat-square&logo=github&link=https://soo-vely-dev.tistory.com/)](https://soo-vely-dev.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:j.ambitious97@gmail.com)](mailto:j.ambitious97@gmail.com)
